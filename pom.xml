@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>datamagic</groupId>
 	<artifactId>cors</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>CORS</name>
@@ -28,7 +28,7 @@
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-core</artifactId>
-			<version>2.14.1</version>
+			<version>2.17.0</version>
 		</dependency>
 		<dependency>
 			<groupId>javax.servlet</groupId>
